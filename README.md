@@ -170,7 +170,7 @@ p.note { display: none; }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H8rJDTGKfpc?si=lnYzQ6Gn4UzJFK0C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GXe5U_CNrbo?si=gM-j3Pgmh6kCRop1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></vr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GXe5U_CNrbo?si=gM-j3Pgmh6kCRop1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/16YJqwLCEjk?si=71uZEv3eBVdYIno-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
