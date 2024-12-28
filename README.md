@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S,Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/27 、メーチャンから北上したところにある植物園で観光 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024(2567)/12/27 、Home Party @ MaeChan !!!</marquee></span></h1>
 
 
 
@@ -128,18 +128,54 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">今回の植物園はこの辺り、洞窟と表示されていますが、洞窟には誰も入りません<br>画像のクリックでGoogleMapsに飛びます</span></h2>
+<h2><span class="yellow">A home party was held at Mae Chan !</span></h2>
 
+<!--
 <a href="https://www.google.com/maps/place/サオヒンパヤーナーク洞窟/@21.3681363,95.9928038,5.96z/data=!4m6!3m5!1s0x30d6f60c4b18046b:0x4584a732f213e275!8m2!3d20.3248697!4d99.8662879!16s%2Fg%2F11g9ntp990!5m1!1e2?authuser=0&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241227_001.png" alt="サンプル画像" width="900" /></a>
+-->
 
-
-
+<!--
 <h2><span class="yellow">久しぶりに観光地っぽいところを訪問<br>車を止めてまず目に入ったのはこの建物</span></h2>
+-->
 
+<a href="20241227party_001.JPG" target="_blank"><img src="20241227party_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_002.JPG" target="_blank"><img src="20241227party_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_003.JPG" target="_blank"><img src="20241227party_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_004.JPG" target="_blank"><img src="20241227party_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_005.JPG" target="_blank"><img src="20241227party_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_006.JPG" target="_blank"><img src="20241227party_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_007.JPG" target="_blank"><img src="20241227party_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_008.JPG" target="_blank"><img src="20241227party_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_009.JPG" target="_blank"><img src="20241227party_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_010.JPG" target="_blank"><img src="20241227party_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_011.JPG" target="_blank"><img src="20241227party_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_012.JPG" target="_blank"><img src="20241227party_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_013.JPG" target="_blank"><img src="20241227party_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_014.JPG" target="_blank"><img src="20241227party_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_015.JPG" target="_blank"><img src="20241227party_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_016.JPG" target="_blank"><img src="20241227party_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_017.JPG" target="_blank"><img src="20241227party_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_018.JPG" target="_blank"><img src="20241227party_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_019.JPG" target="_blank"><img src="20241227party_019.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br>
 
+<h2><span class="yellow">Movies</span></h2>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JsiV3m0BHkg?si=dloidKu1wBh6Ml8P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M19NOa_l_oA?si=EnBDroNNf5zqM9hQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vggyPtk1mCs?si=cqWV_wAZ2c31zmHL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H8rJDTGKfpc?si=lnYzQ6Gn4UzJFK0C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GXe5U_CNrbo?si=gM-j3Pgmh6kCRop1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></vr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16YJqwLCEjk?si=71uZEv3eBVdYIno-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">Short Movie</span></h2>
+https://youtube.com/shorts/CAzz21OcIew?feature=share
 
 
 <h2><span class="yellow">
