@@ -174,12 +174,12 @@ p.note { display: none; }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/16YJqwLCEjk?si=71uZEv3eBVdYIno-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<br><br>
+<br><br><br><br>
 <h2><span class="yellow">Short Movie</span></h2>
-<h2><a href="https://youtube.com/shorts/CAzz21OcIew?feature=share" target="_blank">click here</a></h2>
+<h2><span class="yellow"><a href="https://youtube.com/shorts/CAzz21OcIew?feature=share" target="_blank">click here</a></span></h2>
 
 
-
+<br><br><br><br><br><br><br><br><br>
 
 <h2><span class="yellow">
 <a href="https://torokoid.github.io/20241126_chiangrai/" target="_blank">Back to the menu page</a>
