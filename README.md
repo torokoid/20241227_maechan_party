@@ -176,7 +176,7 @@ p.note { display: none; }
 
 <br><br>
 <h2><span class="yellow">Short Movie</span></h2>
-<a href="https://youtube.com/shorts/CAzz21OcIew?feature=share" target="_blank">click here</a>
+<h2><a href="https://youtube.com/shorts/CAzz21OcIew?feature=share" target="_blank">click here</a></h2>
 
 
 
