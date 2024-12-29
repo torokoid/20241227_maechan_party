@@ -146,6 +146,9 @@ p.note { display: none; }
 <a href="20241227party_006.JPG" target="_blank"><img src="20241227party_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227party_007.JPG" target="_blank"><img src="20241227party_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227party_008.JPG" target="_blank"><img src="20241227party_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_020.JPG" target="_blank"><img src="20241227party_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_021.JPG" target="_blank"><img src="20241227party_021.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20241227party_009.JPG" target="_blank"><img src="20241227party_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227party_010.JPG" target="_blank"><img src="20241227party_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227party_011.JPG" target="_blank"><img src="20241227party_011.JPG" alt="サンプル画像" width="900" /></a>
