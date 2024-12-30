@@ -182,7 +182,7 @@ p.note { display: none; }
 <h2><span class="yellow"><a href="https://youtube.com/shorts/CAzz21OcIew?feature=share" target="_blank">click here to see movie</a></span></h2>
 
 <br><br><br><br>
-<h2><span class="yellow">Add new pics on 30/Dec/2567</span></h2>
+<h2><span class="yellow">Add new pics on 30/Dec/2024=2567</span></h2>
 <a href="20241227party_022.JPG" target="_blank"><img src="20241227party_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227party_023.JPG" target="_blank"><img src="20241227party_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227party_024.JPG" target="_blank"><img src="20241227party_024.JPG" alt="サンプル画像" width="900" /></a>
