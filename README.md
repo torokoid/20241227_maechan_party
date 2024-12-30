@@ -179,7 +179,26 @@ p.note { display: none; }
 
 <br><br><br><br>
 <h2><span class="yellow">Short Movie</span></h2>
-<h2><span class="yellow"><a href="https://youtube.com/shorts/CAzz21OcIew?feature=share" target="_blank">click here</a></span></h2>
+<h2><span class="yellow"><a href="https://youtube.com/shorts/CAzz21OcIew?feature=share" target="_blank">click here to see movie</a></span></h2>
+
+<br><br><br><br>
+<h2><span class="yellow">Add new pics on 30/Dec/2567</span></h2>
+<a href="20241227party_022.JPG" target="_blank"><img src="20241227party_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_023.JPG" target="_blank"><img src="20241227party_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_024.JPG" target="_blank"><img src="20241227party_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_025.JPG" target="_blank"><img src="20241227party_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_026.JPG" target="_blank"><img src="20241227party_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227party_027.JPG" target="_blank"><img src="20241227party_027.JPG" alt="サンプル画像" width="900" /></a>
+
+<br><br>
+
+<h2><span class="yellow">Movies</span></h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tLbZyCumjw8?si=YChXwlUltqy71cPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br><br><br><br>
+<h2><span class="yellow">Short Movie_2</span></h2>
+<h2><span class="yellow"><a href="https://youtube.com/shorts/RP-C7Iw926E?feature=share" target="_blank">click here to see movie</a></span></h2>
 
 
 <br><br><br><br><br><br><br><br><br>
