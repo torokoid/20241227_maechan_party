@@ -201,6 +201,18 @@ p.note { display: none; }
 <h2><span class="yellow"><a href="https://youtube.com/shorts/RP-C7Iw926E?feature=share" target="_blank">click here to see movie</a></span></h2>
 
 
+<br><br><br><br>
+<h2><span class="yellow">Add next party pics on 31/Dec/2024=2567</span></h2>
+<a href="20241231_022.JPG" target="_blank"><img src="20241231_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241231_023.JPG" target="_blank"><img src="20241231_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241231_024.JPG" target="_blank"><img src="20241231_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241231_025.JPG" target="_blank"><img src="20241231_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241231_026.JPG" target="_blank"><img src="20241231_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241231_027.JPG" target="_blank"><img src="20241231_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241231_028.JPG" target="_blank"><img src="20241231_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241231_029.JPG" target="_blank"><img src="20241231_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241231_030.JPG" target="_blank"><img src="20241231_030.JPG" alt="サンプル画像" width="900" /></a>
+
 <br><br><br><br><br><br><br><br><br>
 
 <h2><span class="yellow">
